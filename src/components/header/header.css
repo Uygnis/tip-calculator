@@ -1,0 +1,7 @@
+header{
+    display: flex;
+    justify-content: center;
+    color:var(--neutral-dark-grayish-cyan);
+    letter-spacing: 5px;
+    margin-bottom: 3rem;
+}
